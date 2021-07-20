@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  color: #00c000;
+  font-family: Avenir Next, Arial, sans-serif;
+  font-weight: bold;
+  padding-left: 160px;
+  padding-right:160px;
+}
+
+span.black{
+  color: #000000;
+}
+
+h1{
+  display: inline;
+  font-size: 144px;
+
+}
+
+h2{
+  display: inline;
+  font-size: 72px;
+line-height: 20px;
+}
+h3{
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+
+h4 {
+font-size: 24px;
+  display:inline;
+}
+
+div.a{
+  float: right;
+  font-size:24px;
+  display:inline;
+  padding-right: 100px;
+  padding-bottom: 10px;
+}
+
+div.b{
+  text-align: right;
+  font-size:24px;
+  display:inline;
+  padding-left: 20px;
+  padding-top: 47px;
+
+}
+
+img{
+  display:inline;
+  width:100%;
+}
+
+a{
+  decoration: none;
+  display: inline-block;
+  font-family: Avenir Next;
+
+  text-align: right;
+}
+
+.button{
+  text-decoration: none;
+  font-family: Avenir Next;
+  font-size: 24px;
+  color: #00c000;
+  border: none;
+}
