@@ -1,0 +1,62 @@
+body{
+
+}
+
+span.periwinkle{
+  color: #8888ee;
+}
+
+span.cadmiumYellow{
+  color:#efce00;
+}
+
+span.fuschia{
+  color:#e000e0;
+}
+
+span.cerulean{
+  color:#5fbfef;
+}
+
+span.stone{
+  color:#bbbbbb;
+}
+
+span.vermillion{
+  color:#ff6600;
+}
+
+span.coral{
+  color:#ff2080;
+}
+
+span.violet{
+  color:#6040a0;
+}
+
+span.moneyGreen{
+  color:#00c000;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.column{
+  float: left;
+  height: 300px;
+}
+
+.left{
+  width: 50%;
+}
+
+.right{
+  width: 50%;
+}
+
+.row:after{
+  content:"";
+  display: table;
+  clear: both;
+}
